@@ -1,0 +1,36 @@
+#mailboxlist-title {
+	display:none;
+}
+#mailboxlist ul {
+	border-top: 1px #555 solid !important;
+}
+
+#mailboxlist li.selected {
+	background: #333;
+}
+#mailboxlist li a, #mailboxlist li div {
+	margin-left: -10px;
+}
+#mailboxlist li a {
+	MARGIN-LEF
+}
+
+#taskbar {
+	background: transparent;
+}
+
+#taskbar a {
+	color: #eeeeee;
+}
+
+#mailboxlist-content {
+	top: 0;
+}
+
+#searchfilter {
+	color: #CCC;
+}
+
+body.login {
+	background: url(images/fredsted-background.jpg);
+}
