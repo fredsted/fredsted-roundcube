@@ -28,5 +28,6 @@ Screenshots
 
 Here's a screenshot of the login page and the inbox. There's also an [album](http://imgur.com/a/gq32c#0).
 
-![Imgur](http://i.imgur.com/Fm3eDfI.png)
 ![Imgur](http://i.imgur.com/7Oz9B5R.png)
+
+![Imgur](http://i.imgur.com/Fm3eDfI.png)
