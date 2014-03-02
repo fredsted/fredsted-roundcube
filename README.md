@@ -11,7 +11,7 @@ basically some of it is a whole new skin. You can see a demo at https://mail.fre
 Installing
 ==========
 
-To install, 
+Installing a roundcube theme is literally the easiest thing in the world.
 
 * put the "fredsted" folder insude your /[roundcuberoot}/skins/.
 * select skin in Preferences when logging in to roundcube.
@@ -19,12 +19,14 @@ To install,
 License
 =======
 
-To read more about the license, please see the LICENSE file.n
+Feel free to fork it, add your own corporate logo and do whatever you feel like benefits the community most
+
+To read more about the license, please see the LICENSE file.
 
 Screenshots
 ===========
 
-[Album](http://imgur.com/a/gq32c#0)
+Here's a screenshot of the login page and the inbox. There's also an [album](http://imgur.com/a/gq32c#0).
 
 ![Imgur](http://i.imgur.com/Fm3eDfI.png)
 ![Imgur](http://i.imgur.com/7Oz9B5R.png)
