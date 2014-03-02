@@ -11,14 +11,20 @@ basically some of it is a whole new skin. You can see a demo at https://mail.fre
 Installing
 ==========
 
-To install, put the "fredsted" folder insude your <roundcuberoot>/skins/.
+To install, 
+
+* put the "fredsted" folder insude your /[roundcuberoot}/skins/.
+* select skin in Preferences when logging in to roundcube.
 
 License
 =======
 
-To read more about the license, please see the LICENSE file.
+To read more about the license, please see the LICENSE file.n
 
 Screenshots
 ===========
 
-coming soon...
+[Album](http://imgur.com/a/gq32c#0)
+
+![Imgur](http://i.imgur.com/Fm3eDfI.png)
+![Imgur](http://i.imgur.com/7Oz9B5R.png)
