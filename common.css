@@ -790,7 +790,6 @@ body {
 	left: 0;
 	bottom: 0;
 	float: left;
-	
 }
 
 #login-form
@@ -800,8 +799,8 @@ body {
   width: 400px;
   height: 400px;
   border-radius: 60px;
-  background: #f2f2f2;
-  opacity: 0.9;
+  background: white;
+  opacity: 0.85;
   position:relative;
   clear: both;
 }
