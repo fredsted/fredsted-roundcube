@@ -13,15 +13,15 @@ Installing
 
 Installing a roundcube theme is literally the easiest thing in the world.
 
-* put the "fredsted" folder insude your /[roundcuberoot}/skins/.
-* select skin in Preferences when logging in to roundcube.
+* put the "fredsted" folder insude your /`[roundcuberoot]`/`skins`/.
+* select skin in `Settings` when logging in to roundcube.
 
 License
 =======
 
 Feel free to fork it, add your own corporate logo and do whatever you feel like benefits the community most
 
-To read more about the license, please see the LICENSE file.
+To read more about the license, please see the `LICENSE` file.
 
 Screenshots
 ===========
