@@ -38,3 +38,8 @@ body.login {
     -o-background-size: cover;
     background-size: cover;
 }
+
+#messagetoolbar {
+left: 180px;
+}
+
