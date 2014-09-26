@@ -39,8 +39,27 @@ body.login {
     background-size: cover;
 }
 
+#compose-attachments {
+position: absolute;
+top: 0;
+left: auto;
+right: 0;
+bottom: 0;
+border: 1px solid #999;
+background-color: #F9F9F9;
+}
+
+#compose-div {
+	top:110px;
+}
+
 #messagetoolbar {
 left: 180px;
+}
+
+#mailpreviewframe {
+	background: transparent!important;
+	border: none;
 }
 
 .splitter {
