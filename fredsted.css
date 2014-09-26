@@ -43,3 +43,10 @@ body.login {
 left: 180px;
 }
 
+.splitter {
+background: url(images/handle.png) center no-repeat; 
+}
+
+.splitter-v {
+background: url(images/handlev.png) center no-repeat;
+}
