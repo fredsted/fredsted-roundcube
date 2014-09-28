@@ -17,6 +17,8 @@ Installing a roundcube theme is literally the easiest thing in the world.
 
 ![Imgur](http://i.imgur.com/Fm3eDfI.png)
 
-## License
+## License & Acknowledgements
+
+Background image by nanovivid on Flickr (Attribution-NonCommercial-ShareAlike 2.0 Generic)
 
 Please see the LICENSE file.
