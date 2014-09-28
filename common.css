@@ -791,16 +791,6 @@ body {
 	float: left;
 }
 
-#login-form
-{
-  margin-left: auto;
-  margin-right: auto;
-  width: 364px;
-  height: 361px;
-  background: url(images/login_box.png);
-  position:relative;
-  clear: both;
-}
 
 #login-form table
 {
@@ -841,66 +831,7 @@ button:focus {
     outline: none;
 }
 
-#login-form table input {
-	padding: 6px;
-	background: transparent;
-	border: 0;
-	border-bottom: 1px solid #b9b9b9;
-	margin-bottom: 26px;
-}
 
-
-#login-form input:-webkit-autofill {
-    border-color: #a0a0a0;
-}
-
-.logintitle {
-	margin: 0 auto;
-	display: block;
-	width: 400px;
-	text-align: center;
-	padding-top: 157px;
-	font-family: "Helvetica Neue", "Segoe UI", sans-serif;
-	font-weight: thin;
-	font-size: 20px;
-	background-repeat: no-repeat;
-	background-position: center;
-	
-	
-}
-
-#login-form input[type=submit] { 
-	margin-top: 10px;
-	padding: 10px;
-	border :0;
-	border-radius: 3px;
-	background: #ebebeb;
-	border-color: #ebebeb;
-	font-family: "Helvetica Neue", "Segoe UI", sans-serif;
-	font-weight: 400;
-	font-size: 18px;
-	width: 85px;
-	height: 45px;
-	cursor: pointer;
-}
-
-#login-form input.loginbutton {
-	background-color: #f2f2f2
-}
-
-#login-form input.button:hover {
-	border: 1px solid #000;
-}
-
-input:-webkit-autofill {
-    -webkit-box-shadow:0 0 0 50px #CCC inset; /* Change the color to your own background color */
-    -webkit-text-fill-color: #333;
-}
-
-input:-webkit-autofill:focus {
-    -webkit-box-shadow: /*your box-shadow*/,0 0 0 50px white inset;
-    -webkit-text-fill-color: #333;
-} 
 
 #console
 {

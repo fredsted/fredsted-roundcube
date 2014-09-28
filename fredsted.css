@@ -69,3 +69,97 @@ background: url(images/handle.png) center no-repeat;
 .splitter-v {
 background: url(images/handlev.png) center no-repeat;
 }
+
+#login-wrapper {
+    position: relative;
+
+    height: 361px;
+}
+
+#login-form
+{
+
+    background: url(images/login_box.png);
+    width:364px;
+    height:361px;
+    position:absolute;
+    left:50%;
+    top:50%;
+    margin:-200px 0 0 -182px;
+}
+
+
+#login-form form table {
+    padding-top: 0px;
+}
+
+#login-form table td.input input {
+    font-size: 18px;
+    padding: 6px;
+    background: transparent;
+    border: 0;
+    border-bottom: 1px solid #b9b9b9;
+    margin-bottom: 26px;
+    width: 280px;
+}
+
+#login-form table td.input input#rcmloginpwd {
+    width: 230px;
+
+}
+
+
+#login-form input:-webkit-autofill {
+    border-color: #a0a0a0;
+}
+
+input:-webkit-autofill {
+    -webkit-box-shadow:0 0 0 50px white inset; /* Change the color to your own background color */
+    -webkit-text-fill-color: #333;
+}
+
+input:-webkit-autofill:focus {
+    -webkit-box-shadow: /*your box-shadow*/,0 0 0 50px white inset;
+    -webkit-text-fill-color: #333;
+}
+
+.logintitle {
+
+    /* Remove this line to show title */
+    text-indent: -9999px;
+
+    margin: 0 auto;
+    display: block;
+    width: 100%;
+    padding-top: 160px;
+    text-align: center;
+    font-family: "Helvetica Neue", "Segoe UI", sans-serif;
+    font-weight: thin;
+    font-size: 20px;
+    background-repeat: no-repeat;
+    background-position: center;
+
+
+}
+
+#login-form input[type=submit] {
+    margin-top: 10px;
+    padding: 10px;
+    border :0;
+    border-radius: 3px;
+    background: transparent;
+    color: #555;
+    font-family: "Helvetica Neue", "Segoe UI", sans-serif;
+    font-size: 12px;
+    width: 45px;
+    height: 38px;
+    cursor: pointer;
+    float: right;
+    margin-top: -65px;
+    margin-right: 30px;
+}
+
+#login-form input.button:hover {
+    border: 1px solid #000;
+}
+

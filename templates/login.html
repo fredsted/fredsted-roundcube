@@ -14,20 +14,17 @@ $(function(){
 })
 </script>
 
-<div id="login-wrapper">
 	<div id="login-form">
 		<div class="logintitle"><roundcube:object name="pagetitle" /></div>
-			
+
 		<form name="form" action="./" method="post">
 		<roundcube:object name="loginform" form="form" />
-		
-		<p style="text-align:center;">
-			<input type="submit" class="loginbutton" value="<roundcube:label name='login' />" />
-		</p>
+
+            <input type="submit" class="loginbutton" value="<roundcube:label name='login' />" />
 
 		</form>
 	</div>
-</div>
+
 
 <noscript>
   <p id="login-noscriptwarning"><roundcube:label name="noscriptwarning" /></p>
