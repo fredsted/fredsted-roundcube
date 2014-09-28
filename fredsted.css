@@ -163,3 +163,101 @@ input:-webkit-autofill:focus {
     border: 1px solid #000;
 }
 
+#tabsbar, div.tabsbar {
+
+}
+
+#prefs-box, #prefs-frame, #folder-box, #folder-frame
+, #identity-box, #identity-frame{
+    background-color: transparent;
+    border: 0;
+}
+
+/***** tabbed interface elements *****/
+
+div.tabsbar,
+#tabsbar
+{
+    position: absolute;
+    top: 50px;
+    left: 10px;
+    right: 20px;
+    height: 22px;
+    border-bottom: 0;
+    white-space: nowrap;
+}
+
+div.tabsbar
+{
+    top: 35px;
+    left: 12px;
+    right: 12px;
+}
+
+span.tablink,
+span.tablink-selected
+{
+    float: left;
+    height: 22px;
+    overflow: hidden;
+    background: transparent;
+    border-right: #333 1px solid;
+}
+
+span.tablink:last-of-type,
+span.tablink-selected:last-of-type {
+    border-right: 0;
+}
+
+span.tablink
+{
+    cursor: pointer;
+}
+
+span.tablink-selected
+{
+    margin-top: -1px;
+    cursor: default;
+    height: 22px;
+}
+
+span.tablink a,
+span.tablink-selected a
+{
+    display: inline-block;
+    padding: 5px 10px 0 5px;
+    margin-left: 5px;
+    height: 23px;
+    color: #CCC;
+    max-width: 185px;
+    text-decoration: none;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -o-text-overflow: ellipsis;
+    background: transparent;
+}
+
+span.tablink-selected a
+{
+    cursor: inherit;
+    color: #dedede;
+    font-weight: bold;
+}
+
+
+
+/***** preferences *****/
+
+#sections-table thead .section {
+    height: 12px !important;
+    padding: 2px 10px 5px 5px;
+    border-bottom: 1px solid #999;
+    color: #e9e9e9;
+    font-size: 11px;
+    font-weight: bold;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -o-text-overflow: ellipsis;
+    white-space: nowrap;
+    background: #3f3f3f;
+}
