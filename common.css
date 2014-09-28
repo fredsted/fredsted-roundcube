@@ -739,17 +739,16 @@ a.rcmContactAddress:hover
   list-style-type: none;
 }
 
-#rcmKSearchpane ul li
-{
-  display: block;
-  height: 16px;
-  font-size: 11px;
-  padding-left: 6px;
-  padding-top: 2px;
-  padding-right: 6px;
-  white-space: nowrap;
-  cursor: pointer;
-}½
+#rcmKSearchpane ul li {
+    display: block;
+    height: 16px;
+    font-size: 11px;
+    padding-left: 6px;
+    padding-top: 2px;
+    padding-right: 6px;
+    white-space: nowrap;
+    cursor: pointer;
+}
 
 #rcmKSearchpane ul li.selected
 {
@@ -796,11 +795,9 @@ body {
 {
   margin-left: auto;
   margin-right: auto;
-  width: 400px;
-  height: 400px;
-  border-radius: 60px;
-  background: white;
-  opacity: 0.85;
+  width: 364px;
+  height: 361px;
+  background: url(images/login_box.png);
   position:relative;
   clear: both;
 }
@@ -862,14 +859,11 @@ button:focus {
 	display: block;
 	width: 400px;
 	text-align: center;
-	padding-top: 50px;
-
+	padding-top: 157px;
 	font-family: "Helvetica Neue", "Segoe UI", sans-serif;
 	font-weight: thin;
-	font-size: 48px;
-	width: 85px !import;
+	font-size: 20px;
 	background-repeat: no-repeat;
-	text-indent: -500000px;
 	background-position: center;
 	
 	
