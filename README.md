@@ -13,9 +13,9 @@ Installing a roundcube theme is literally the easiest thing in the world.
 
 ## Screenshots
 
-![Imgur](http://i.imgur.com/7Oz9B5R.png)
+![Imgur](http://filedump.fredsted.me/frstd-rc-10-2.png)
 
-![Imgur](http://i.imgur.com/Fm3eDfI.png)
+![Imgur](http://filedump.fredsted.me/frstd-rc-10-1.png)
 
 ## License & Acknowledgements
 
